@@ -1,5 +1,3 @@
-OroCRM Sample Application
-=========================
 
 What Is Included?
 --------------------
